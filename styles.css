@@ -1,17 +1,41 @@
 .navbar {
     font-size: 40px;
-    text-align: center;
     position: relative;
-    text-align: center;
+    text-align: right;
     color: white;
-    justify-content: center;
+    display: block;
+    height: 200px;
     }
 
-a.navbar { 
-    z-index: 100;
-    position: absolute;
+img.navbar {
+    position:fixed;
+    width: 1920px;
+    height: 670px;
+    
+
 
 }
 
+a.navbar {
+    color: aliceblue;
+}
+
+
+ul{ 
+    
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    
+
 
 }
+
+#navbarlist li {
+
+    
+}
+
+    
+  
+
